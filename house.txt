@@ -1,0 +1,7 @@
+The device I will be describing for this assignment is my crockpot a.k.a. slow cooker.
+I use my crockpot to cook delicious food for my family and I.  My crockpot is basically a ceramic bowl that sits inside
+a heating element.  Uncooked ingredients are placed inside the bowl and covered with a lid.  The heating element accepts 
+data in the form of on or off inputs.  The on input consist of different length of time selections.  The shorter the length
+of time selected the hotter the heating element is set which cooks the food quicker.  Once the user selects the time length
+desired for their meal the heating element outputs heat which heats the ceramic bowl which heats the food.  The result is 
+a delicious meal that is cooked over a selected period of time.
